@@ -1,0 +1,5 @@
+# A single file Mustache implementation in less than 250 lines of code
+
+*Experimental, use at your own risk.*
+
+It exposes `Tokenize`, `Parse` and `Render` for easy customization. The tests should be pretty easy to understand.
