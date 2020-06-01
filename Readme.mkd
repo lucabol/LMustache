@@ -3,3 +3,6 @@
 *Experimental, use at your own risk.*
 
 It exposes `Tokenize`, `Parse` and `Render` for easy customization. The tests should be pretty easy to understand.
+
+It also has an implementation that doesn't depend on `Text.Json`, in case that is not available to you. It uses instead [TynyJson](https://github.com/zanders3/json).
+
